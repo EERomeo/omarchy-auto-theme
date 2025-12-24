@@ -11,3 +11,12 @@ You can install this theme by running in the terminal:
 ```omarchy-theme-install https://github.com/EERomeo/omarchy-auto-theme```
 
 or select Install > Style > Theme via the Omarchy Menu and provide the link ```https://github.com/EERomeo/omarchy-auto-theme```
+
+# My themes
+<a href="https://github.com/EERomeo/omarchy-auto-theme">Auto</a></br>
+<a href="https://github.com/EERomeo/omarchy-apocalypse-theme">Apocalypse</a></br>
+<a href="https://github.com/EERomeo/omarchy-digital-theme">Digital</a></br>
+<a href="https://github.com/EERomeo/omarchy-steampunk-theme">Steampunk</a></br>
+
+# My waybar
+<a href="https://github.com/EERomeo/omarchy-mini-rice">Waybar & Scripts</a>
