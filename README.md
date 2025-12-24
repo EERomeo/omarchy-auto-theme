@@ -6,7 +6,7 @@ An automobiles theme for Omarchy
 <img width="1991" height="1091" alt="image" src="https://github.com/user-attachments/assets/9cefe432-a381-40fd-b9c5-62c4499dba90" />
 
 # Installation
-You can install any of these themes by copying the GitHub URL and running
+You can install this theme by running
 
 ```omarchy-theme-install https://github.com/EERomeo/omarchy-auto-theme```
 
